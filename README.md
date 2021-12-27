@@ -40,3 +40,4 @@ With technology advancing at a rapid pace, the price of laptops has increased, t
 
 5. Run the main package, a java window will open. Press on it which will allow you to use arrow keys as input
 
+https://user-images.githubusercontent.com/61443806/147513778-efb7281f-b03b-4395-9af4-1eb9d229dde2.mp4
