@@ -1,0 +1,71 @@
+-----------Welcome to the Maze Runner Game-----------
+Enter maze height (min 5): 5
+Enter maze width (min 5): 5
+Casey, 'C', the maze runner, is trapped in a maze.
+
+To escape from the maze, he must find all the keys, 'K', that are scattered in the maze.
+After collecting all the keys, the exit, 'E', will appear at the corner of the maze.
+
+Casey's visibility is very limited due to the heavy fog, '#', he cannot see beyond two blocks.
+However, there is a holy torch, '%', hidden somewhere in the maze. It could help boost Casey's visibility.
+
+Casey is just a normal guy, he can't see or walk through the maze walls.
+Please note! Every move will cost Casey a drop of blood. So make your move wisely! (Press the arrow keys to move).
+
+Press ENTER to continue... 
+############+---+---+
+############|     C |
+############+   +---+	Key(s) collected: 0/3
+#####################
+#####################	Hint to the nearest key: <- v 
+#####################
+#####################	Visibility: 2 blocks
+#####################
+#####################	Health: 250/250
+#####################
+#####################
+############+---+---+
+############| C     |
+############+   +---+	Key(s) collected: 0/3
+############     ####
+############+   +####	Hint to the nearest key: <- v 
+############    |####
+############+   +####	Visibility: 2 blocks
+#####################
+#####################	Health: 249/250
+#####################
+#####################
+############+---+####
+############|    ####
+####+   +---+   +---+	Key(s) collected: 0/3
+####  K       C     |
+####+   +---+   +   +	Hint to the nearest key: <- 
+############    |####
+############+   +####	Visibility: 2 blocks
+############|    ####
+############+   +####	Health: 248/250
+#####################
+#####################
+#####################
+#####################
++   +   +---+   +---+	Key(s) collected: 0/3
+|     K   C         |
++   +   +---+   +   +	Hint to the nearest key: <- 
+#####################
+#####################	Visibility: 2 blocks
+#####################
+#####################	Health: 247/250
+#####################
+#####################
+2
+####+---+############
+####|    ############
++   +   +---+   +####	Key(s) collected: 1/3
+|     C          ####
++   +   +---+   +####	Hint to the nearest key: <- v 
+####|   |############
+####+   +############	Visibility: 2 blocks
+####|    ############
+####+   +############	Health: 246/250
+#####################
+#####################
